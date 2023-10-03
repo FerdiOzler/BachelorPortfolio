@@ -4,6 +4,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+/*    background-color: lightgray*/
 }
 
 a {
@@ -964,4 +965,10 @@ section {
 
 .test{
     text-align: center;
+}
+
+.technologie{
+    list-style-type: circle;
+    padding-bottom: 0px;
+    margin-left: 20px;
 }
